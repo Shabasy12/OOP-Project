@@ -1,0 +1,29 @@
+Book Name: Book1
+Book Author: Author1
+Book Publisher: pub1
+Book Collection Address: 001
+Qty: 50
+Price: 150.0
+Borrowing Copies: 50<NewBook>
+Book Name: Book2
+Book Author: Author2
+Book Publisher: pub2
+Book Collection Address: 002
+Qty: 100
+Price: 200.0
+Borrowing Copies: 100<NewBook>
+Book Name: Book3
+Book Author: Author3
+Book Publisher: pub3
+Book Collection Address: 003
+Qty: 150
+Price: 300.0
+Borrowing Copies: 148<NewBook>
+Book Name: Book4
+Book Author: Auth4
+Book Publisher: pub4
+Book Collection Address: 004
+Qty: 9
+Price: 15.0
+Borrowing Copies: 10<NewBook>
+
